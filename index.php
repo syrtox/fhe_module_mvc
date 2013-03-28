@@ -13,7 +13,7 @@ function __autoload($class) {
 // Load the Bootstrap!
 $bootstrap = new Bootstrap();
 
-// Optional Path Settings
+// Optional Path Settingsnj
 //$bootstrap->setControllerPath();
 //$bootstrap->setModelPath();
 //$bootstrap->setDefaultFile();
