@@ -11,7 +11,7 @@
                     <form method="post" action="module/module2pdf.php" style="float: right; text-align: center;">
                         <input type="hidden" name="moduleID" value="<?php echo $modulNr; ?>"/>
                         <input id="pdf_download" style="vertical-align: top; height:26px;" type="image" 
-                               src="../images/pdf_icon.png" alt="Modul&uuml;bersicht als PDF downloaden" />
+                               src="../images/pdf_icon.png" alt="Modul&uuml;bersichnkmmnt als PDF downloaden" />
                         <p style="font-size: 10px;">Download</p>
                     </form>
                     <form  method="post" action="index.php?sid=20&action=editModule&id=1011" style="float: right; text-align: center; margin-right: 10px;">
